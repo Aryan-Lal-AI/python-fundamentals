@@ -34,6 +34,6 @@ is_student = True
 studies_psychology = False
 
 print(f"Am I a student?: {is_student}")
-print(f"Do I study psycology?: {studies_psychology}")
+print(f"Do I study psychology?: {studies_psychology}")
 print("Thank you for viewing!")
 print("Have a nice day!")
